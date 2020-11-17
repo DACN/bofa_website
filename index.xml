@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bridge of Allan &amp; Logie SNP</title>
+    <link>https://bridgeofallanlogiesnp.org/</link>
+    <description>Recent content on Bridge of Allan &amp; Logie SNP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Copyright Bridge of Allan &amp; Logie SNP</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 12:52:36 +0600</lastBuildDate><atom:link href="https://bridgeofallanlogiesnp.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Active for over Twenty Years</title>
+      <link>https://bridgeofallanlogiesnp.org/blog/simple-blog-post-1/</link>
+      <pubDate>Wed, 01 Jan 2020 12:52:36 +0600</pubDate>
+      
+      <guid>https://bridgeofallanlogiesnp.org/blog/simple-blog-post-1/</guid>
+      <description>Welcome to the website of the Bridge of Allan &amp;amp; Logie branch of the Scottish National Party.</description>
+    </item>
+    
+    <item>
+      <title>Branch Meetings</title>
+      <link>https://bridgeofallanlogiesnp.org/blog/simple-blog-post-3/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://bridgeofallanlogiesnp.org/blog/simple-blog-post-3/</guid>
+      <description>Branch Meetings
+Our branch meetings are on the second Monday of each month starting at 7.</description>
+    </item>
+    
+    <item>
+      <title>Westminster and Holyrood Constituencies</title>
+      <link>https://bridgeofallanlogiesnp.org/blog/simple-blog-post-2/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://bridgeofallanlogiesnp.org/blog/simple-blog-post-2/</guid>
+      <description>Bridge of Allan and Logie is represented at Westminster, at Holyrood and on Stirling council</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://bridgeofallanlogiesnp.org/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bridgeofallanlogiesnp.org/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://bridgeofallanlogiesnp.org/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bridgeofallanlogiesnp.org/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+  </channel>
+</rss>
